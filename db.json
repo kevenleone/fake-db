@@ -1,16 +1,16 @@
 {
-  "posts":[
+  "user": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "email": "keven.santos.@hotmail.com",
+      "user": "kevenleone",
+      "id": 1
     }
   ],
-  "comments" : [
+  "todo": [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "completed": false,
+      "title": "www",
+      "id": 1
     }
   ]
 }
